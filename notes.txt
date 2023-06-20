@@ -1,0 +1,2 @@
+OpenAI GitHub Gym examples: https://github.com/openai/gym/tree/master/gym/envs
+Stable Baselines docs: https://stable-baselines3.readthedocs.io/en/master/
