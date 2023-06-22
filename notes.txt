@@ -1,2 +1,8 @@
 OpenAI GitHub Gym examples: https://github.com/openai/gym/tree/master/gym/envs
 Stable Baselines docs: https://stable-baselines3.readthedocs.io/en/master/
+Install Box2d Windows: https://github.com/jonasschneider/box2d-py/blob/master/INSTALL.md
+
+git clone https://github.com/pybox2d/pybox2d
+cd /c/path/to/pybox2d
+python setup.py build
+python setup.py install
